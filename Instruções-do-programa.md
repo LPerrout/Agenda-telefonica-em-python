@@ -1,10 +1,10 @@
 # Agenda-telefonica-em-python
-Agenda telefônica com E-mail utilizado como chave de pesquisa do Usuário.
-#Para testar o codigo e seu arquivo de texto crie uma pasta e coloque os dois arquivos dentro, posteriormente rode o codigo.
+Agenda telefônica que utiliza e-mail como chave de pesquisa do Usuário.
+A agenda possui um arquivo de texto associado que possibilita salvar e carregar contatos.
 
 A agenda tem função de anotar contatos utilizando como informações básicas email, nome e telefone. A agenda tem as seguintes funções:
 - Inserir contatos
-- Editar contatos (realiza busca a partir do email e edita informações do contato desejado)
+- Editar contatos (realiza busca a partir do e-mail e edita informações do contato desejado)
 - listar (mostrar contatos)
 - Excluir contatos
 - Buscar contatos (Busca o contato desejado e mostra no terminal)

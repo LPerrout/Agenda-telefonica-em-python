@@ -9,4 +9,4 @@ A agenda tem função de anotar contatos utilizando como informações básicas 
 - Excluir contatos (realiza uma busca a partir do e-mail e exlui o contato pesquisado)
 - Buscar contatos (busca o contato desejado e mostra no terminal)
  
-#Todas as funções que envolvem alguma mudança de caractere como: iditar, inserir ou excluir possuem uma função associada que salva e outra que carregar os contatos em um documento de texto (.txt). 
+#Todas as funções que envolvem alguma mudança de caractere como: Editar, inserir ou excluir possuem uma função associada que salva e outra que carregar os contatos em um documento de texto (.txt). 
